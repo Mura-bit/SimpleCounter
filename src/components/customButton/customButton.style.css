@@ -1,0 +1,14 @@
+button {
+    width: 250px;
+    height: 80px;
+    border-radius: 15px;
+    border: 1px solid grey;
+    background-color: #0153be;
+    color: white;
+    font-size: 3rem;
+    transition: transform 0.3s ease;
+}
+
+button:hover {
+    transform: scale(1.1);
+}
